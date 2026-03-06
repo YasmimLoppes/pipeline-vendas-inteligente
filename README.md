@@ -1,17 +1,19 @@
 # 🛡️ Pipeline de Inteligência de Vendas - 2026
 
-Projeto de Engenharia de Dados para automação de análise de vendas.
+Projeto de Engenharia de Dados focado em automação e storytelling de dados.
 
 ## 📊 Visualização do Dashboard
+Aqui estão os resultados do processamento dos dados:
+
 ![Dashboard 1](dashboard1.png)
 ![Dashboard 2](dashboard2.png)
 
 ## 🛠️ Tecnologias
-* **Python/Pandas**: Processamento e limpeza de dados.
-* **Streamlit**: Dashboard interativo e métricas.
+* **Python/Pandas**: Limpeza e cálculos de KPIs.
+* **Streamlit**: Interface interativa.
 
-## 📂 Estrutura
-* `/scripts`: Lógica do pipeline.
-* `/data`: Armazenamento de CSVs.
+## 📂 Estrutura do Projeto
+* `/scripts`: Código de processamento.
+* `/data`: Camadas de dados brutos e processados.
 
-Desenvolvido por **Otávio** (3º semestre de ADS).
+Desenvolvido por **Otávio** (Estudante de ADS).
