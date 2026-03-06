@@ -16,4 +16,4 @@ Aqui estão os resultados do processamento dos dados:
 * `/scripts`: Código de processamento.
 * `/data`: Camadas de dados brutos e processados.
 
-Desenvolvido por **Otávio** (Estudante de ADS).
+Desenvolvido por **Yasmin Lopes** (Estudante de ADS).
