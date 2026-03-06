@@ -1,0 +1,6 @@
+data_compra,categoria,valor,id_cliente
+2026-01-01,Eletrônicos,1500.0,101
+2026-01-10,Moda,250.0,102
+2026-02-01,Eletrônicos,1200.0,101
+2026-02-15,Alimentos,150.0,103
+2026-03-01,Moda,300.0,104
