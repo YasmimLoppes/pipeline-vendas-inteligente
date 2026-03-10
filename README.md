@@ -1,6 +1,6 @@
 # 🛡️ Pipeline de Inteligência de Vendas - 2026
 
-Projeto de Engenharia de Dados focado em automação e storytelling de dados.
+💰 Pipeline de dados para análise de performance de vendas, com foco em Data Cleaning e geração de insights.
 
 ## 📊 Visualização do Dashboard
 Aqui estão os resultados do processamento dos dados:
